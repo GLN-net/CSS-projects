@@ -1,0 +1,24 @@
+.intro{
+    background-color: cornflowerblue;
+    height: 300px;
+    display: flex;
+  
+}
+.intro-image{   
+    flex: 1 1 auto;
+}
+.intro-content{
+    margin-top: 100px;
+    flex: 1 1 auto;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: large;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 600px;
+}
+
+
